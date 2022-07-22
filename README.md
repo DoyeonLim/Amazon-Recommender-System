@@ -1,4 +1,4 @@
-# RecSys_11_Ah_Chu
+# 2022_Summer_RecSys_T11_Ah_Chu
 2022 CUAI Summer Conference RecSys - Team 11
 
 ## Members
