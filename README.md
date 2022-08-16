@@ -1,9 +1,10 @@
 # 2022_Summer_RecSys_T11_Ah_Chu
-2022 CUAI Summer Conference RecSys - Team 11
+CUAI 5th Summer Conference Project Repository   
+Check out Paper at [Link](https://github.com/woog2ee/KDrama-Chatbots/blob/main/CUAI%20%EB%8F%99%EA%B3%84%20%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4%20Short%20Paper%20NLP%ED%8C%80.pdf)   
+Check out Presentation at [Link](https://github.com/woog2ee/KDrama-Chatbots/blob/main/CUAI%20%EB%8F%99%EA%B3%84%20%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4%20Presentation%20NLP%ED%8C%80.pdf)   
 
-## Members
-
-권예진 <br>
-김중훈 <br>
-박경빈 <br>
-임도연 <br>
+## 👪 Teammates
+- **Jungjoon Kim**: School of Applied Statistics, Chung-Ang University
+- **Yejin Kwon**: School of Applied Statistics, Chung-Ang University
+- **Gyungbin Park**: School of Computer Science & Engineering, Chung-Ang University
+- **Doyeon Lim**: School of Computer Science & Engineering, Chung-Ang University
