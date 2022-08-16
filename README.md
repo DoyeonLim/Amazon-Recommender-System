@@ -4,7 +4,7 @@ Check out Paper at [Link](https://github.com/woog2ee/KDrama-Chatbots/blob/main/C
 Check out Presentation at [Link](https://github.com/woog2ee/KDrama-Chatbots/blob/main/CUAI%20%EB%8F%99%EA%B3%84%20%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4%20Presentation%20NLP%ED%8C%80.pdf)   
 
 ## 👪 Teammates
-- **Jungjoon Kim**: School of Applied Statistics, Chung-Ang University
-- **Yejin Kwon**: School of Applied Statistics, Chung-Ang University
-- **Gyungbin Park**: School of Computer Science & Engineering, Chung-Ang University
-- **Doyeon Lim**: School of Computer Science & Engineering, Chung-Ang University
+- **Jungjoon Kim** : School of Applied Statistics, Chung-Ang University
+- **Yejin Kwon** : School of Applied Statistics, Chung-Ang University
+- **Gyungbin Park** : School of Computer Science & Engineering, Chung-Ang University
+- **Doyeon Lim** : School of Computer Science & Engineering, Chung-Ang University
