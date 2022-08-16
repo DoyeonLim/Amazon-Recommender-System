@@ -24,7 +24,7 @@ Amazon Review Dataset을 이용하여 추천시스템 모델을 구현한다. �
 <br>
 
 ## Evaluation
-|**MODEL|NCF(100 epoch)|BIVAE(50 epoch)|BIVAE(100 epoch)|lightfm|lightfm(meta)|matrix factorization|matrix factorization(category)**|
+|**MODEL**|**NCF(100 epoch)**|**BIVAE(50 epoch)**|**BIVAE(100 epoch)**|**lightfm**|**lightfm(meta)**|**matrix factorization**|**matrix factorization(category)**|
 |---|---|---|---|---|---|---|---|
 |**MAP**|0.011440|0.021827|0.032151|0.036288|0.000179|0.005266|0.016408|0.015506|0.016474|
 |**NDCG**|0.011440|0.050682|0.075207|0.085151|0.000793|0.015583|0.031498|0.031121|0.032077|
