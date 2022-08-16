@@ -6,5 +6,5 @@ Check out Presentation at [Link](https://github.com/woog2ee/KDrama-Chatbots/blob
 ## 👪 Teammates
 - **Jungjoon Kim** : School of Applied Statistics, Chung-Ang University
 - **Yejin Kwon** : School of Applied Statistics, Chung-Ang University
-- **Gyungbin Park** : School of Computer Science & Engineering, Chung-Ang University
+- **Gyeongbin Park** : School of Computer Science & Engineering, Chung-Ang University
 - **Doyeon Lim** : School of Computer Science & Engineering, Chung-Ang University
