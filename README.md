@@ -9,8 +9,12 @@ Check out Presentation at [Link](https://github.com/woog2ee/KDrama-Chatbots/blob
 - **Gyeongbin Park** : School of Computer Science & Engineering, Chung-Ang University
 - **Doyeon Lim** : School of Computer Science & Engineering, Chung-Ang University
 
+<br>
+
 ## Abstract
 Amazon Review Dataset을 이용하여 추천시스템 모델을 구현한다. 그 과정에서 자연어처리 기술을 이용하여 Meta Data의 상품 description 항목을 임베딩하여 성능을 높였다. 또한 최신 모델인 BiVAE를 이용해 성능을 높일 수 있었다. 
+
+<br>
 
 ## Models(Paper Link)
 - [BiVAE(Bilateral Variational Autoencoder)](https://dl.acm.org/doi/pdf/10.1145/3437963.3441759)
