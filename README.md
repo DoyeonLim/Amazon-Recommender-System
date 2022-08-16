@@ -8,3 +8,8 @@ Check out Presentation at [Link](https://github.com/woog2ee/KDrama-Chatbots/blob
 - **Yejin Kwon** : School of Applied Statistics, Chung-Ang University
 - **Gyeongbin Park** : School of Computer Science & Engineering, Chung-Ang University
 - **Doyeon Lim** : School of Computer Science & Engineering, Chung-Ang University
+
+## Abstract
+
+
+## Models
