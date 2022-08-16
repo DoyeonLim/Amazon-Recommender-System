@@ -20,3 +20,15 @@ Amazon Review Dataset을 이용하여 추천시스템 모델을 구현한다. �
 - [BiVAE(Bilateral Variational Autoencoder)](https://dl.acm.org/doi/pdf/10.1145/3437963.3441759)
 - [NCF(Neural Collaborative Filtering)](https://liqiangnie.github.io/paper/p173-he.pdf)
 - [LightFM](http://ceur-ws.org/Vol-1448/paper4.pdf)
+
+<br>
+
+## Evaluation
+|**MODEL|NCF(100 epoch)|BIVAE(50 epoch)|BIVAE(100 epoch)|lightfm|lightfm(meta)|matrix factorization|matrix factorization(category)**|
+|---|---|---|---|
+|**MAP**|0.011440|0.021827|0.032151|0.036288|0.000179|0.005266|0.016408|0.015506|0.016474|
+|**NDCG**|0.011440|0.050682|0.075207|0.085151|0.000793|0.015583|0.031498|0.031121|0.032077|
+|**PRECISION@K**|0.009011|0.032808|0.049084|0.057221|0.000772|0.013203|0.021136|0.021282|0.020952|
+|**RECALL@K**|0.011217|0.032780|0.048843|0.058966|0.000858|0.017592|0.043550|0.043070|0.042821
+
+
