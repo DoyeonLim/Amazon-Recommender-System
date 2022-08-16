@@ -3,7 +3,7 @@ CUAI 5th Summer Conference Project Repository
 Check out Paper at    
 Check out Presentation at   
 
-<
+<br>
 
 ## 👪 Teammates
 - **Jungjoon Kim** : School of Applied Statistics, Chung-Ang University
