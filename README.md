@@ -1,7 +1,7 @@
 # 2022_Summer_RecSys_T11_Ah_Chu
 CUAI 5th Summer Conference Project Repository   
 Check out Paper at    
-Check out Presentation at   
+Check out Presentation at [Link](https://github.com/CUAI-CAU/2022_Summer_RecSys_T11_Ah_Chu/blob/main/Ah%20chu%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pptx)  
 
 <br>
 
@@ -26,8 +26,8 @@ Amazon Review Dataset을 이용하여 추천시스템 모델을 구현한다. �
 <br>
 
 ## 🔍Evaluation
-|**MODEL**|**NCF**|**lightfm**|**lightfm(meta)**|**matrix factorization**|**matrix factorization(meta)**|**BIVAE**|
-|---|---|---|---|---|---|---|
+|**MODEL**|**NCF**|**LightFM**|**LightFM(meta)**|**Matrix Factorization**|**Matrix Factorization(meta)**|**BiVAE**|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**MAP**|0.004876|0.000179|0.005266|0.016408|0.016474|0.036288|
 |**NDCG**|0.011440|0.000793|0.015583|0.031498|0.032077|0.085151|
 |**PRECISION@K**|0.009011|0.000772|0.013203|0.021136|0.020952|0.057221|
