@@ -9,7 +9,7 @@ Check out Presentation at [Link](https://github.com/CUAI-CAU/2022_Summer_RecSys_
 - **Jungjoon Kim** : School of Applied Statistics, Chung-Ang University
 - **Yejin Kwon** : School of Applied Statistics, Chung-Ang University
 - **Gyeongbin Park** : School of Computer Science & Engineering, Chung-Ang University
-- **Doyeon Lim** : School of Computer Science & Engineering, Chung-Ang University
+- **🙋‍♀️Doyeon Lim** : School of Computer Science & Engineering, Chung-Ang University
 
 <br>
 
