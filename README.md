@@ -1,6 +1,6 @@
 # 2022_Summer_RecSys_T11_Ah_Chu
 CUAI 5th Summer Conference Project Repository   
-Check out Paper at    
+Check out Paper at [Link](https://github.com/DoyeonLim/Amazon-Recommender-System/blob/main/2022_CUAI_Summer_Conference_Shortpaper_RecSys_T11_Ah_Chu.pdf)    
 Check out Presentation at [Link](https://github.com/CUAI-CAU/2022_Summer_RecSys_T11_Ah_Chu/blob/main/Ah%20chu%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pptx)  
 
 <br>
